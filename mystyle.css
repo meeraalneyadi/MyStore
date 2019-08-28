@@ -1,0 +1,156 @@
+html {
+  height: 100%;
+  overflow: auto;
+}
+
+body {
+  position: relative;
+  background: whitesmoke;
+  margin: 0 auto;
+  min-height: 100%;
+  overflow: auto;
+}
+
+#header {
+  height: 100px;
+  background: pink;
+  margin: 0 auto;
+}
+
+#header .logo {
+  float: left;
+  padding: 35px;
+  width: 20%;
+  height: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#header .logo img {
+  width: 150px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#header .searchBox {
+  float: left;
+  padding: 35px;
+  width: 60%;
+  height: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#header .searchBox input {
+  height: 30px;
+  width: 80%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#header .welcomeBox {
+  float: left;
+  width: 20%;
+  padding: 30px;
+  height: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  height: 70%;
+  font: 16px sans-serif;
+  color: gray;
+  position: fixed;
+  overflow: auto;
+}
+
+.footer {
+  position: fixed;
+  position: absolute;
+  font-size: 12px;
+  bottom: 0;
+  background: pink;
+
+  height: 50px;
+  font: 16px sans-serif;
+  padding: 50px 50px 50px 50px;
+  margin-bottom: 40px;
+  width: 100%;
+  text-align: center;
+}
+.footer .links {
+  background-color: pink;
+  text-align: center;
+}
+.navbar {
+  overflow: hidden;
+  background-color: gray;
+  margin-bottom: 10px;
+}
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.filter {
+  padding-left: 4px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 25%;
+  padding: 20px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+#firstgallery {
+  width: 100%;
+  margin-left: 400px;
+}
+
+#secondgallery {
+  width: 100%;
+  margin-left: 200px;
+}
+
+#thirdgallery {
+  width: 100%;
+  margin-left: 200px;
+}
+
+#forthgallery {
+  width: 100%;
+  margin-left: 200px;
+}

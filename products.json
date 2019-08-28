@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "name": "Abloom",
+
+      "color": "Black/Red",
+      "price": "AED350",
+      "imageURL": "1.png"
+    },
+    {
+      "name": "pink rose",
+
+      "color": "pink",
+      "price": "AED400",
+      "imageURL": "2.img"
+    },
+    {
+      "name": "A rose",
+
+      "color": "Orange/Black",
+      "price": "AED350",
+      "imageURL": "3.png"
+    },
+
+    {
+      "name": "Articulated",
+
+      "color": "Orange/Black",
+      "price": "AED350",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated1",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated2",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated3",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+
+    {
+      "name": "Articulated4",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated5",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+
+    {
+      "name": "Articulated6",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated7",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated8",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated9",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    },
+    {
+      "name": "Articulated10",
+
+      "color": "Orange/Black",
+      "price": "AED500",
+      "imageURL": "4.png"
+    }
+  ]
+}
