@@ -114,6 +114,26 @@ body {
   clear: both;
   display: table;
 }
+/* middle container */
+#flex-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background: silver;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+#flex-item-left-panel {
+  font-size: 15px;
+  justify-content: center;
+  width: 15%;
+  height: 100%;
+  background: whitesmoke;
+  padding: 15px;
+  margin: 10px;
+  border: 1px solid black;
+}
 
 div.gallery {
   margin: 5px;
